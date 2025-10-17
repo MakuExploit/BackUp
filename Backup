@@ -45,6 +45,13 @@ local eggChances = {
     {name="Golem", chance=6},
     {name="Golden Goose", chance=0}
 },
+["Jungle Egg"] = {
+    {name = "Tree Frog", chance = 40},
+    {name = "Hummingbird", chance = 30},
+    {name = "Iguana", chance = 24},
+    {name = "Chimpanzee", chance = 5},
+    {name = "Tiger", chance = 1},
+},
     ["Gourmet Egg"] = {  
         {name="Bagel Bunny", chance=50},  
         {name="Pancake Mole", chance=38},  
