@@ -52,6 +52,14 @@ local eggChances = {
     {name = "Chimpanzee", chance = 5},
     {name = "Tiger", chance = 1}
 },
+["Gem Egg"] = {
+    {name = "Topaz Snail", chance = 44.78},
+    {name = "Amethyst Beetle", chance = 31.84},
+    {name = "Emerald Snake", chance = 13.93},
+    {name = "Sapphire Macaw", chance = 8.46},
+    {name = "Diamond Panther", chance = 0.5},
+    {name = "Ruby Squid", chance = 0.5},
+},
 ["Safari Egg"] = {
     {name = "Oxpecker", chance = 50},
     {name = "Zebra", chance = 25},
